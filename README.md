@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavrushi
-- 👀 I’m interested in web develpment ,  android develpment and programming.
-- 🌱 I’m currently learning css,java,c++
+- 👀 I’m interested in web develpment , programming.
+- 🌱 I’m currently learning html,css,javascript,c++,python,django,
 - 📫 How to reach me just mail me @thammenenipranav@gmail.com
 
 <!---
