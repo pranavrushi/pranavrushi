@@ -10,7 +10,7 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 I am a full stack devolper and content creator. I love programming, designing, learning, speaking and traveling
 
-As a learning grad ,i am more fasinated in building the crazy things ike games using Pygame , and i am more familiar with React.js framework .
+As a learning grad , i am more fasinated in building the crazy things like games using Pygame and i am more familiar with React.js framework .
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -19,11 +19,11 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/pranavrushi);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📝 I regulary post some techy feeds on my [Instagram page](https://www.instagram.com/code_with_v)
+- - 📫 How to reach me: thammenenipranav@gmail.com;
+<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 </br>
 
