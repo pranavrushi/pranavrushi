@@ -21,7 +21,6 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary post some techy feeds on my [Instagram page](https://www.instagram.com/code_with_v)
 - - 📫 How to reach me: thammenenipranav@gmail.com;
-<!-- - 📝 [Resume](https://gkassym.netlify.app/Resume.pdf). -->
 
 </br>
 
@@ -36,8 +35,8 @@ No Activity tracked this Week
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavrushi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrushi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
