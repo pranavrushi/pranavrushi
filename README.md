@@ -32,7 +32,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 **My Skills: 
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<Red>
+https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<red>
 
 
 📈 **My GitHub Stats:**
