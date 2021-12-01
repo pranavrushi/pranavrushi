@@ -11,9 +11,11 @@ I am a full stack devolper and content creator. I love programming, designing, l
 As a learning grad , i am more fasinated in building the crazy things like games using Pygame and i am more familiar with React.js framework .
 I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="408" height="318" />
- <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
+<img align="right" alt="GIF" src="https://tenor.com/view/chilled-lamb-mienar-lofi-study-gif-21666282" width="408" height="318" />
+<!--  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+ -->
+ <div class="tenor-gif-embed" data-postid="21666282" data-share-method="host" data-aspect-ratio="1.28" data-width="100%"><a href="https://tenor.com/view/chilled-lamb-mienar-lofi-study-gif-21666282">Chilled Lamb Mienar GIF</a>from <a href="https://tenor.com/search/chilled+lamb-gifs">Chilled Lamb GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ https://tenor.com/view/chilled-lamb-mienar-lofi-study-gif-21666282
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
