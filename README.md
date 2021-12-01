@@ -30,9 +30,9 @@ I enjoy using my obsessive attention to detail, my unequivocal love for making t
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-**My Skills: **
+**My Skills: 
 
-https://img.shields.io/static/v1?label=<Python>&message=<MESSAGE>&color=<Red>
+https://img.shields.io/static/v1?label=<LABEL>&message=<Python>&color=<Red>
 
 
 📈 **My GitHub Stats:**
