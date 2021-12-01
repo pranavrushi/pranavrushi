@@ -31,7 +31,8 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 **My Skills: **
-![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+https://img.shields.io/static/v1?label=<Python>&message=<MESSAGE>&color=<Red>
 
 
 📈 **My GitHub Stats:**
