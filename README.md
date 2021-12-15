@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/pranav_rushi/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/PranavRushi)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pranavrushi.pranavrushi)
 I am a full stack devolper and content creator. I love programming, designing, learning, speaking and traveling
 
 As a learning grad , i am more fasinated in building the crazy things like games using Pygame and i am more familiar with React.js framework .
